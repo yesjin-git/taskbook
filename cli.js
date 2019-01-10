@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-'use strict';
+'use strict'; 
 const meow = require('meow');
 const updateNotifier = require('update-notifier');
 const help = require('./lib/help');
